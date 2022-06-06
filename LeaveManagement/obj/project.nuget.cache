@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "M/yqXzbWj5f/av1sTjmHTQlVRueEAdcXpwz2HdwfRosZ+kWbczTer3RAyk3a9/wCYTkT93bSnkpuD7q2Z6/Syg==",
+  "dgSpecHash": "hHa2SpvkVa9WhNK9V1dWJxEoxbCRQbzSgfYIYY7guYnKXcQYD7ZCEybU1r7GCj8WI/ZDgYWu0nbKX0NTPph3vw==",
   "success": true,
   "projectFilePath": "/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/LeaveManagement.csproj",
   "expectedPackageFiles": [
+    "/Users/m.alessa/.nuget/packages/dotnetcore.entityframeworkcore/16.38.0/dotnetcore.entityframeworkcore.16.38.0.nupkg.sha512",
+    "/Users/m.alessa/.nuget/packages/dotnetcore.repositories/16.38.0/dotnetcore.repositories.16.38.0.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.5/microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.5/microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",
@@ -22,6 +24,7 @@
     "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.5/microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.5/microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.design/6.0.5/microsoft.entityframeworkcore.design.6.0.5.nupkg.sha512",
+    "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.inmemory/6.0.5/microsoft.entityframeworkcore.inmemory.6.0.5.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.5/microsoft.entityframeworkcore.relational.6.0.5.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.5/microsoft.entityframeworkcore.sqlite.6.0.5.nupkg.sha512",
     "/Users/m.alessa/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.5/microsoft.entityframeworkcore.sqlite.core.6.0.5.nupkg.sha512",
