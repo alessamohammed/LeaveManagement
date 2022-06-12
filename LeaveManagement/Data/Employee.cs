@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace LeaveManagement.Data
-{
+namespace LeaveManagement.Data;
+
     public class Employee : IdentityUser
     {
         public string? FirstName { get; set; }
@@ -11,4 +11,3 @@ namespace LeaveManagement.Data
         public DateTime DateJoined { get; set; }
 
     }
-}

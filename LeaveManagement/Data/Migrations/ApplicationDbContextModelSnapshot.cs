@@ -118,6 +118,10 @@ namespace LeaveManagement.Data.Migrations
                     b.Property<int>("NumberOfDays")
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("Period")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.HasKey("Id");
 
                     b.HasIndex("LeaveTypeId");

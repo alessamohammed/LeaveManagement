@@ -27,6 +27,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/Views/LeaveType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhdmVUeXBlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/Views/LeaveType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhdmVUeXBlL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/Views/LeaveType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhdmVUeXBlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/Views/LeaveType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhdmVUeXBlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/Views/LeaveType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhdmVUeXBlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/m.alessa/RiderProjects/LeaveManagement/LeaveManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
